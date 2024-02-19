@@ -1,5 +1,7 @@
 # My Defy Layers
 
+The layers used for my [Dygma Defy](https://dygma.com/products/dygma-defy) keyboard.
+
 ## Default Layer
 
 Normal QWERT keyboard with some adjustment on some lower frequency keys.
